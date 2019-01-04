@@ -2,11 +2,11 @@
 # @Author: IBNBlank
 # @Date:   2018-07-26 23:55:32
 # @Last Modified by:   IBNBlank
-# @Last Modified time: 2018-07-28 22:18:25
+# @Last Modified time: 2019-01-04 20:41:40
 
 import pygame
 
-import my_source._myglobal as myglobal
+import my_source.__myglobal as myglobal
 
 ##### UI Classes #####
 ### Start ###

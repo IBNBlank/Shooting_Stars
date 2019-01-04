@@ -2,17 +2,17 @@
 # @Author: IBNBlank
 # @Date:   2018-07-22 22:09:30
 # @Last Modified by:   IBNBlank
-# @Last Modified time: 2018-07-28 22:17:35
+# @Last Modified time: 2019-01-04 20:40:13
 
 import pygame
 import random
 
-import my_source._myglobal as myglobal
-import my_source._player as player
-import my_source._enemy as enemy
-import my_source._explosion as explosion
-import my_source._powerup as powerup
-import my_source._ui as ui
+import my_source.__myglobal as myglobal
+import my_source.__player as player
+import my_source.__enemy as enemy
+import my_source.__explosion as explosion
+import my_source.__powerup as powerup
+import my_source.__ui as ui
 
 ##### Collision #####
 ### Collision of Player and Enemies ###

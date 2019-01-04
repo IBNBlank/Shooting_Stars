@@ -2,12 +2,12 @@
 # @Author: IBNBlank
 # @Date:   2018-07-26 18:58:58
 # @Last Modified by:   IBNBlank
-# @Last Modified time: 2018-07-28 22:18:46
+# @Last Modified time: 2019-01-04 20:41:33
 
 import pygame
 import random
 
-import my_source._myglobal as myglobal
+import my_source.__myglobal as myglobal
 
 ##### Property #####
 POWER_UP_PROPERTY = {

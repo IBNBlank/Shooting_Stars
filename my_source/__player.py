@@ -2,14 +2,14 @@
 # @Author: IBNBlank
 # @Date:   2018-07-22 19:02:52
 # @Last Modified by:   IBNBlank
-# @Last Modified time: 2018-07-28 22:18:59
+# @Last Modified time: 2019-01-04 20:41:26
 
 import pygame
 import random
 
-import my_source._myglobal as myglobal
-import my_source._bullet as bullet
-import my_source._explosion as explosion
+import my_source.__myglobal as myglobal
+import my_source.__bullet as bullet
+import my_source.__explosion as explosion
 
 ##### Property Define ######
 ### Player One ###

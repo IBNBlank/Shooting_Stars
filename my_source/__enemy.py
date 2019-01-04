@@ -2,15 +2,15 @@
 # @Author: IBNBlank
 # @Date:   2018-07-22 22:12:24
 # @Last Modified by:   IBNBlank
-# @Last Modified time: 2018-07-28 22:02:59
+# @Last Modified time: 2019-01-04 20:42:15
 
 import pygame
 import random
 
-import my_source._myglobal as myglobal
-import my_source._bullet as bullet
-import my_source._explosion as explosion
-import my_source._powerup as powerup
+import my_source.__myglobal as myglobal
+import my_source.__bullet as bullet
+import my_source.__explosion as explosion
+import my_source.__powerup as powerup
 
 ##### Property Define #####
 ### Plane One ###

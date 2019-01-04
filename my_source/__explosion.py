@@ -2,11 +2,11 @@
 # @Author: IBNBlank
 # @Date:   2018-07-22 22:15:53
 # @Last Modified by:   IBNBlank
-# @Last Modified time: 2018-07-28 22:02:32
+# @Last Modified time: 2019-01-04 20:42:33
 
 import pygame
 
-import my_source._myglobal as myglobal
+import my_source.__myglobal as myglobal
 
 ##### Explosion Class ######
 class Explosion(pygame.sprite.Sprite):
