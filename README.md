@@ -37,7 +37,7 @@ This is a space ship game using pygame and python.
 * **``the Pill``**: Bomb Number.
 * **``the Plane``**: Life Number.
 
-## Contact Information
+## Contact
 
 * If you have someting to tell me, please send me an e-mail.
 * My e-mail address is <847235539@qq.com>.
