@@ -6,12 +6,14 @@
 
 This is a space ship game using pygame and python.
 
+
 ## How to Start
 
 1. **Install ``pygame``**
 	* ``pip install pygame``
 2. **Run the Game**
 	* ``python main.py``
+
 
 ## How to Play
 
@@ -29,6 +31,7 @@ This is a space ship game using pygame and python.
 	* **Axis1**: Move of y.
 	* You can test the correspondence in file ``joystick_test.py``.
 
+
 ## About Powerup
 
 * **``the Red One``**: Attack Speed.
@@ -36,6 +39,7 @@ This is a space ship game using pygame and python.
 * **``the Blue One``**: Move Speed.
 * **``the Pill``**: Bomb Number.
 * **``the Plane``**: Life Number.
+
 
 ## Contact
 
